@@ -1,5 +1,4 @@
 # A React Frontend application for *Flask-shopping-cart-API-Microservice_wirecart*
-------------------
 
 ## Getting started
 * Run `yarn` to install all dependencies
