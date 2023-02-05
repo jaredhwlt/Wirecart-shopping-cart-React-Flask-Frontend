@@ -1,4 +1,5 @@
 # A React Frontend application for *Flask-shopping-cart-API-Microservice_wirecart*
+![image](https://user-images.githubusercontent.com/121944905/216810144-677d84e7-044a-4ce3-a836-c38fd17f99d9.png)
 
 ## Getting started
 * Run `yarn` to install all dependencies
