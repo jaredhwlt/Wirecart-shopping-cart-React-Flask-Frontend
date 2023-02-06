@@ -1,6 +1,6 @@
 import './App.css';
 import { Routes, Route } from "react-router-dom"
-import Checkout from "./checkout"
+import Checkout from "./pages/checkout"
 import "./index.css";
 
 function App() {

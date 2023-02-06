@@ -1,7 +1,7 @@
 import {
     createBrowserRouter,
   } from "react-router-dom";
-  import Checkout from './checkout';
+  import Checkout from './pages/checkout';
 
 const router = createBrowserRouter([
     {

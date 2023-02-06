@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import axios from "axios";
 import ProductRow from "./ProductRow";
-import Spinner from './Spinner';
+import Spinner from '../Spinner';
 
 interface Props{
     user_id: number;
@@ -51,7 +51,7 @@ export default function ProductsSection(props: Props){
                 :
                     <Spinner />
             }
-                <p className="mt-16 italic text-gray-400 text-sm">*Showing only the first 3 items for the sake of design</p>
+                <p className="mt-16 text-sm italic text-gray-400">*Showing only the first 3 items for the sake of design</p>
         </>
     )
 }
